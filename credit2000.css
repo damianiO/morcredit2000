@@ -42,7 +42,13 @@ select{
 	width: 100%;
 	font-size: 12px;
 }
-
+#wrap{
+	width: 768px !important;
+}
+	
+table{
+	width: 768px !important;
+}
 table > tbody > tr > td{
     display: table;
     color: #1AB394 !important;
