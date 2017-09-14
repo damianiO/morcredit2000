@@ -34,7 +34,7 @@ select{
 }
 
 #wrap{
-	width: 854px !important;
+	width: 858px !important;
 	height: 696px !important;
 	border: 1px solid #58585833 !important;
 	background-color: #fff !important;
@@ -46,11 +46,11 @@ table{
 }
 
 #contentLeft{
-	width: 854px !important;
+	width: 858px !important;
 }
 
 #contentLeft .Detailstitle {
-	width: 854px !important;
+	width: 700px !important;
 	background-image: none !important;
 }
 
