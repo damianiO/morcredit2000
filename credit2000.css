@@ -45,9 +45,12 @@ table{
 #contentLeft{
 	width: 768px !important;
 }
-
-.Detailstitle{
+#contentLeft .Detailstitle{
 	width: 768px !important;
+}
+
+table td:first{
+	width: 123px !important;
 }
 
 table > tbody > tr > td{
@@ -60,18 +63,14 @@ table > tbody > tr > td{
     font-size: 10px;
 }
 
-table > tbody > tr > td:first{
-	width: 123px !important;
-}
+
 
 #lbPrice {
-    
     color: #1c84c6;
     font-size: 17px;
-    
 }
 
-div.pci{
+div .pci{
 	margin-right: 620px;
 }
 
