@@ -50,7 +50,7 @@ table{
 	width: 768px !important;
 }
 
-table td:first{
+td:first-child {
 	width: 123px !important;
 }
 
