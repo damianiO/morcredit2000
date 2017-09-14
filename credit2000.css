@@ -14,11 +14,11 @@
 }*/
 
 input {
-    background-color: #FFF;
+    background-color: #000;
     background-image: none;
     border: 1px solid #E5E6E7;
     border-radius: 1px;
-    color: inherit;
+    color: #FFF;
     display: block;
     transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
     width: 100%;
