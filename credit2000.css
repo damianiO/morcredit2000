@@ -1,4 +1,8 @@
 
+body{
+	overflow:hidden;
+}
+
 input {
 	background-color: #FFFFFF;
 	background-image: none;
@@ -52,6 +56,11 @@ table{
 #contentLeft .Detailstitle {
 	width: 700px !important;
 	background-image: none !important;
+}
+
+#contentRight{
+		padding-right: 46px;
+		padding-top: 8px;
 }
 
 td:first-child {
