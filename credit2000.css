@@ -14,19 +14,37 @@
 }*/
 
 input {
-    background-color: #000 !important;
-    background-image: none;
-    border: 1px solid #E5E6E7;
-    border-radius: 1px;
-    color: #FFF !important;
-    display: block;
-    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
-    width: 100%;
-    padding: 0px;
-    height: 18px;
-    font-size: 12px;
-    line-height: 1.5;
-    color: black;
+	background-color: #FFFFFF;
+	background-image: none;
+	border: 1px solid #e5e6e7;
+		border-top-color: rgb(229, 230, 231);
+		border-right-color: rgb(229, 230, 231);
+		border-bottom-color: rgb(229, 230, 231);
+		border-left-color: rgb(229, 230, 231);
+	border-radius: 1px;
+	color: inherit;
+	display: block;
+	padding: 5px 10px;
+	transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+	width: 100%;
+	font-size: 12px;
+}
+
+select{
+	background-color: #FFFFFF;
+	background-image: none;
+	border: 1px solid #e5e6e7;
+		border-top-color: rgb(229, 230, 231);
+		border-right-color: rgb(229, 230, 231);
+		border-bottom-color: rgb(229, 230, 231);
+		border-left-color: rgb(229, 230, 231);
+	border-radius: 1px;
+	color: inherit;
+	display: block;
+	padding: 5px 10px;
+	transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+	width: 100%;
+	font-size: 12px;
 }
 
 table > tbody > tr > td{
