@@ -44,9 +44,16 @@ select{
 }
 #wrap{
 	width: 768px !important;
+	height: 600px !important;
 }
 	
 table{
+	width: 768px !important;
+}
+.contentLeft{
+	width: 768px !important;
+}
+.Detailstitle{
 	width: 768px !important;
 }
 table > tbody > tr > td{
@@ -59,14 +66,21 @@ table > tbody > tr > td{
     font-size: 10px;
 }
 
+table > tbody > tr > td:first{
+	width: 123px !important;
+}
+
 #lbPrice {
     
     color: #1c84c6;
     font-size: 17px;
     
 }
+div.pci{
+	margin-right: 620px;
+}
 
-/*#btOk{
+#btOk{
     display: inline-block;
     padding: 6px 12px;
     margin-bottom: 0px;
@@ -84,7 +98,7 @@ table > tbody > tr > td{
     background-color: #1AB394;
     border-color: #1AB394;
     color: #FFF;
-}*/
+}
 
 
 
