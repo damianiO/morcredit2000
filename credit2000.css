@@ -4,7 +4,7 @@ body{
 }
 
 input {
-	background-color: #FFFFFF;
+	background-color: #faf2cc !important;
 	background-image: none;
 	border: 1px solid #e5e6e7;
 		border-top-color: rgb(229, 230, 231);
