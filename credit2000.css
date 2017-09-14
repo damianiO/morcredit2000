@@ -26,11 +26,11 @@ select{
 		border-left-color: rgb(229, 230, 231);
 	border-radius: 1px;
 	color: #000;
-	display: block;
 	padding: 5px 10px;
 	transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
-	width: 100%;
+	width: 100px;
 	font-size: 12px;
+	position: fixed;
 }
 
 #wrap{
@@ -55,16 +55,13 @@ td:first-child {
 }
 
 table > tbody > tr > td{
-    display: table;
     color: #1AB394 !important;
     display: inline-block;
     max-width: 100%;
     margin-bottom: 5px;
     font-weight: bold;
-    font-size: 10px;
+    font-size: 12px;
 }
-
-
 
 #lbPrice {
     color: #1c84c6;
@@ -75,6 +72,7 @@ div .pci{
 	margin-right: 620px;
 }
 
+/*
 a#btOk{
     display: inline-block;
     padding: 6px 12px;
@@ -96,5 +94,5 @@ a#btOk{
 }
 
 
-
+*/
 
